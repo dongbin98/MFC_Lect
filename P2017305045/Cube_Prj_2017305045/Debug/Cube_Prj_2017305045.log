@@ -1,4 +1,0 @@
-﻿  Cube_Prj_2017305045View.cpp
-c:\users\profe\source\repos\cube_prj_2017305045\cube_prj_2017305045\cube_prj_2017305045view.cpp(921): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\profe\source\repos\cube_prj_2017305045\cube_prj_2017305045\cube_prj_2017305045view.cpp(985): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Cube_Prj_2017305045.vcxproj -> C:\Users\profe\source\repos\Cube_Prj_2017305045\Debug\Cube_Prj_2017305045.exe
